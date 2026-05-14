@@ -1,0 +1,282 @@
+body{
+    background: #7A50BA   ;
+    background: linear-gradient(0deg, rgba(122, 80, 186, 1) 12%, rgba(91, 13, 163, 1) 45%, rgba(0, 0, 0, 1) 74%);
+    background-repeat: no-repeat;
+    height: 1310px;
+}
+
+.navbar{
+    margin-left: 235px;
+    background-color: none;
+    font-family: "Press Start 2P", system-ui;
+    font-weight: bolder;
+}
+
+.nav-item{
+    margin-left: 180px;
+}
+
+.logo{
+    margin-left: 50px;
+}
+
+.menu{
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 32px;
+}
+
+.menu2:hover{
+    transition: 0.3s;
+    text-decoration: underline;
+    color: #808080;
+}
+
+.menu3{
+    margin-top: 30px;
+}
+
+.mano{
+    margin-left: 1620px;
+    margin-top: 50px;
+    height: 550px;
+}
+
+.cubo{
+    height: 450px;
+    margin-left: 1700px;
+    margin-top: 20px;
+}
+
+.cubo:hover{
+    transition: 5s;
+    transform: rotate(200deg);
+}
+
+.div1{
+    display:inline-block
+}
+
+.info{
+    margin-top: -700px;
+    margin-left: 200px;
+}
+
+.nombre{
+    font-family: "Press Start 2P", system-ui;
+    color: #fff;
+}
+
+p{
+    font-family: "Press Start 2P", system-ui;
+    color: #fff;
+    font-size: 10px;
+    line-height: 2.5;
+    font-size: 12px;
+}
+
+
+.boton{
+    background-color: #808080;
+    border: none;
+    color: #fff;
+    font-family: "Press Start 2P", system-ui;
+    height: 50px;
+    font-size: 10px;
+    margin-top: 70px;
+    text-decoration: none;
+}
+
+.texto{
+    height: 200px;
+    width: 1100px;
+
+}
+
+.boton:hover{
+    transition: 0.5s;
+    color: #808080;
+    background-color: #fff;
+}
+
+
+.body2{
+    background-image: url('../img/x.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.texto1{
+    margin-left: 1430px;
+    margin-top: 400px;
+}
+
+.certi{
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+.div3{
+    display: flex;
+}
+
+.espa{
+    margin-top: 450px;
+    margin-left: 50px;
+}
+
+.pp{
+    margin-left: 50px;
+}
+
+.te1{
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+.ua{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.meto{
+    margin-left: -50px;
+    margin-right: 10px;
+    width: 800px;
+    height: 250px;
+    background-color: #808080;
+    border: none;
+    border-radius: 20px;
+}
+
+.b2{
+    margin-top: -10px;
+    background-color: #fff;
+    color: #808080;
+}
+
+.boton:hover{
+    transition: 0.5s;
+    color: #fff;
+    background-color: #c4c3c3;
+}
+
+.de{
+    margin-left: 55px;
+}
+
+.as{
+    margin-left: 20px;
+}
+
+.ea{
+    margin-left: 35px;
+}
+
+.t1{
+    margin-top: 150px;
+}
+
+.qq{
+    font-family: "Press Start 2P", system-ui;   
+    font-size: 23px;
+    margin-top: 25px;
+}
+
+.ima{
+    height: 100px;
+    width: auto;
+}
+
+.xd{
+    display: flex;
+    margin-top: 25px;
+}
+
+.aa{
+    margin-left: 1000px;
+    margin-top: 250px;
+}
+
+.ppp{
+    margin-top: 30px;
+    font-size: 25px;
+    margin-left: 50px;
+}
+
+.te{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.im{
+    margin-top: 350px;
+    margin-left: 100px;
+}
+
+.lo{
+    display: flex;
+}
+
+.cc{
+    width: 250px;
+}
+
+.ee{
+    margin-left: 50px;
+}
+
+.ea{
+    display: flex;
+}
+
+.vi{
+    margin-left: 250px;
+}
+
+.q{
+    margin-left: 800px;
+}
+
+.aaa{
+    margin-top: 100px;
+}
+
+.eee{
+    width: 550px;
+}
+
+.asaa{
+    margin-left: 800px;
+}
+
+.po{
+    margin-left: 30px;
+}
+
+.ll{
+    margin-left: 800px;
+}
+
+.vv{
+    width: 550px;
+}
+
+.lp{
+    display: flex;
+}
+
+.obj{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.w{
+  margin-top: 200px;  
+}
+
+.w2{
+    margin-top: 300px
+}
